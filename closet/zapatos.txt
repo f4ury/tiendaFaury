@@ -2,3 +2,10 @@ Calzado de hombre
 Calzado de mujer
 Botas para hombre
 Botas para mujer
+
+Tenis:
+
+Tenis Deportivos
+Tenis Formales
+Tenis Casuales
+
